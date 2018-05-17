@@ -35,6 +35,7 @@ public class ShootBullet2 : MonoBehaviour
 
             yield return null;
         }
+        
     }
 }
     
